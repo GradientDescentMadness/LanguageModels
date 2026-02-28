@@ -1,98 +1,99 @@
-🧠 LLM Playground
+# 🧠 LLM Playground
 
 This repository is my personal playground for Large Language Models (LLMs).
 It’s where I experiment, break things, rebuild them, and gradually turn theory into working systems.
 
 The focus here is hands-on learning—understanding how modern language models work and applying them to real, practical use cases.
 
-🚀 What This Repo Is About
+## 🚀 What This Repo Is About
 
-I use this space to explore and implement:
+- I use this space to explore and implement:
 
-Core LLM fundamentals: tokenization, embeddings, vectorization
+- Core LLM fundamentals: tokenization, embeddings, vectorization
 
-Transformer architectures and attention mechanisms
+- Transformer architectures and attention mechanisms
 
-Prompt engineering and output control
+- Prompt engineering and output control
 
-Text classification, generation, summarization, and retrieval
+- Text classification, generation, summarization, and retrieval
 
-Retrieval-Augmented Generation (RAG)
+- Retrieval-Augmented Generation (RAG)
 
-Multimodal experiments (text + images)
+- Multimodal experiments (text + images)
 
-LM Model training- SFT using LoRA/ Q-LoRA
+- LM Model training- SFT using LoRA/ Q-LoRA
 
-Evaluation, efficiency, and reproducibility
+- Evaluation, efficiency, and reproducibility
 
-This repo evolves...
+This repo evolves...grows with me
 
-🛠️ What I Do Here
 
-Start from first principles and build up
+## 🛠️ What is expeted here
 
-Replicate examples from papers, blogs, and courses
+* Start from first principles and build up
 
-Write notebooks and scripts to test ideas quickly
+* Replicate examples from papers, blogs, and courses
 
-Experiment with:
+* Write notebooks and scripts to test ideas quickly
 
-Temperature, top-k, top-p sampling
+* Experiment with:
 
-Prompt patterns and chaining
+* Temperature, top-k, top-p sampling
 
-Embeddings and semantic search
+* Prompt patterns and chaining
 
-Adapt models to custom datasets
+* Embeddings and semantic search
 
-Turn abstract concepts into real applications:
+* Adapt models to custom datasets
 
-Search systems
+* Turn abstract concepts into real applications:
 
-RAG pipelines
+* Search systems
 
-Agent workflows
+* RAG pipelines
 
-Multimodal demos
+* Agent workflows
 
-📁 Repository Structure
+* Multimodal demos
+
+## 📁 Repository Structure
 
 The repo is very simple. Filenames are intuitive and Sequwncce nmber increases with complexity. It is for clarity and reproducibility.
 
 
-🔁 Reproducibility & Code Quality
+###  🔁 Reproducibility & Code Quality
 
-Clear setup instructions and environment specs
+* Clear setup instructions and environment specs
 
-Clean, readable, and well-commented code
+* Clean, readable, and well-commented code
 
-Version control used as a learning log
+* Version control used as a learning log
 
-Experiments are traceable and incremental
+* Experiments are traceable and incremental
 
-🤝 Collaboration
+### 🤝 Collaboration
 
 This is primarily a personal learning repo, but:
 
-Forks and contributions are welcome
+* Forks and contributions are welcome
 
-Alternative approaches and improvements are encouraged
+* Alternative approaches and improvements are encouraged
 
-Keep contributions aligned with experimentation and learning
+* Keep contributions aligned with experimentation and learning
 
-⚖️ Responsible AI
+### ⚖️ Responsible AI
 
 While experimenting, I consciously consider:
 
-Model and data biases
+* Model and data biases
 
-Privacy implications
+* Privacy implications
 
-Resource efficiency (parameter-efficient tuning, lightweight methods)
+* * Resource efficiency (parameter-efficient tuning, lightweight methods)
 
 Ethical and responsible usage of AI systems
 
-🎯 Goal
+### 🎯 Goal
 
 The goal of this repository is to become a living archive of experiments, insights, and working systems that grow with my skills.
 
@@ -101,3 +102,7 @@ By focusing on real-world builds—search, retrieval, multimodal systems, and ag
 Ultimately, what I expect from this repository is a growing collection of code, insights, and experiments that evolves alongside my understanding. I pull from proven resources, adapt them to my needs, and document everything so it’s easy to revisit, extend, or refactor. By focusing on real-world builds—like retrieval systems, agentic workflows, or multimodal pipelines—I steadily build confidence in deploying language AI systems.
 
 This is my space. I keep it personal. I add diagrams, notes, extensions, and even wild ideas—and use it to master language teh ever evolving AI.
+
+
+## Creits
+All credits go to Jay Alamar and Martin's book : hands on with LLM
